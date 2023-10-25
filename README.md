@@ -1,1 +1,1 @@
-Project created for learning about Java 21
+Project for learning about Java 21
